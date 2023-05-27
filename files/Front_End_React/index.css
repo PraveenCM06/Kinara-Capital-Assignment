@@ -1,0 +1,9 @@
+.alldetails{
+  height: 85px;
+  width: 185px;
+  background-color: rgba(130, 255, 255, 0.527);
+  margin: 10px;
+  display: flex;
+  gap: 30px;
+  text-align: center;
+}
